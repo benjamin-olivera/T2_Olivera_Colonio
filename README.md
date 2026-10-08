@@ -9,3 +9,5 @@ Repositorio para la evaluación T2 del curso usando Java/Maven y control de vers
 
 ## Evidencia T2
 Evaluación T2 - Configuración inicial de repositorio Git, commits y trazabilidad.
+## Control de cambios
+Se realizaron modificaciones controladas en README y pom.xml, aplicando staging parcial y descarte de cambios.
